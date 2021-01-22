@@ -1,6 +1,7 @@
 ﻿
 namespace Console1
 {
+	//IVistor interface code
     public interface IVistor
     {
         void Accept(RealState home);
